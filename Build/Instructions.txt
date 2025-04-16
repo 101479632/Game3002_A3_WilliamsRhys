@@ -1,0 +1,8 @@
+Instructions
+
+A & D to move
+
+E to interact
+
+Space to jump & double jump
+
